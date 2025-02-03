@@ -1,0 +1,138 @@
+"""
+-------------------------------------------------------
+Assignment      Testing
+-------------------------------------------------------
+Author:  Jessica Desmond
+ID:      169033605
+Email:   desm3605@mylaurier.ca
+Version: 2023-11-16
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Number:9
+[1, 3]
+
+Number:7
+[1]
+
+Number:24
+[1, 2, 3, 4, 6, 8, 12]
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a positive number: 3
+Enter a positive number: 4
+Enter a positive number: 5
+Enter a positive number: 3
+Enter a positive number: 0
+[3, 4, 5, 3]
+
+Enter a positive number: 5
+Enter a positive number: 7
+Enter a positive number: 2
+Enter a positive number: 0
+[5, 7, 2]
+
+Enter a positive number: -1
+Enter a positive number: 2
+Enter a positive number: -3
+Enter a positive number: 4
+Enter a positive number: -5
+Enter a positive number: 6
+Enter a positive number: 0
+[2, 4, 6]
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a positive number: 5
+Enter a positive number: 4
+Enter a positive number: 5
+Enter a positive number: 6
+Enter a positive number: 3
+Enter a positive number: 0
+Target number:5
+[0, 2]
+
+Enter a positive number: 5
+Enter a positive number: 1
+Enter a positive number: 8
+Enter a positive number: 9
+Enter a positive number: 5
+Enter a positive number: 2
+Enter a positive number: 5
+Enter a positive number: 3
+Enter a positive number: 0
+Target number:5
+[0, 4, 6]
+
+Enter a positive number: 1
+Enter a positive number: 1
+Enter a positive number: 1
+Enter a positive number: 1
+Enter a positive number: 1
+Enter a positive number: 0
+Target number:1
+[0, 1, 2, 3, 4]
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter a positive number: 5
+Enter a positive number: 5
+Enter a positive number: 5
+Enter a positive number: 4
+Enter a positive number: 0
+Subtrahend: 5
+[4]
+
+Enter a positive number: 1
+Enter a positive number: 56
+Enter a positive number: 56
+Enter a positive number: 2
+Enter a positive number: 3
+Enter a positive number: 4
+Enter a positive number: 5
+Enter a positive number: 0
+Subtrahend: 56
+[1, 2, 3, 4, 5]
+
+Enter a positive number: 65
+Enter a positive number: 65
+Enter a positive number: 65
+Enter a positive number: 78
+Enter a positive number: 64
+Enter a positive number: 32
+Enter a positive number: 0
+Subtrahend: 65
+[78, 64, 32]
+
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter a positive number: 5
+Enter a positive number: 4
+Enter a positive number: 3
+Enter a positive number: 2
+Enter a positive number: 1
+Enter a positive number: 0
+(False, -1)
+
+Enter a positive number: 1
+Enter a positive number: 2
+Enter a positive number: 3
+Enter a positive number: 4
+Enter a positive number: 5
+Enter a positive number: 0
+(True, -1)
+
+Enter a positive number: 23
+Enter a positive number: 41
+Enter a positive number: 99
+Enter a positive number: 0
+(True, -1)
+
+-------------------------------------------------------

@@ -1,0 +1,142 @@
+"""
+
+-------------------------------------------------------
+
+Lab/Assignment  Testing
+
+-------------------------------------------------------
+
+Author:  Jessica Desmond
+
+ID:      169033605
+
+Email:   desm3605@mylaurier.ca
+
+Version: 2023-09-30
+
+-------------------------------------------------------
+
+"""
+
+-------------------------------------------------------
+
+t02
+
+-------------------------------------------------------
+Radius: 2.5
+Circumference: 15.71
+
+Radius: 1
+Circumference: 6.28
+
+Radius: 0
+Circumference: 0.00
+
+
+-------------------------------------------------------
+
+t05
+
+-------------------------------------------------------
+Adjacent length of triangle: 3.0
+Opposite length of triangle: 4.0
+Hypotenuse: 5.0
+Perimeter: 12.0
+Area: 6.0
+
+Adjacent length of triangle: 2
+Opposite length of triangle: 4
+Hypotenuse: 4.47213595499958
+Perimeter: 10.47213595499958
+Area: 4.0
+
+Adjacent length of triangle: 6
+Opposite length of triangle: 4
+Hypotenuse:7.2
+Perimeter:17.2
+Area:12.0
+
+
+-------------------------------------------------------
+
+t08
+
+-------------------------------------------------------
+Enter cost of one computer: 1399
+Enter number of computers bought: 87
+Enter commission percentage: 8.5
+Cost of computers before commission: 121713.00
+Cost of computers before commission: 132058.60
+
+Enter cost of one computer: 1680
+Enter number of computers bought: 20
+Enter commission percentage: 5
+Cost of computers before commission: 33600.00
+Cost of computers before commission: 35280.00
+
+Enter cost of one computer: 50.60
+Enter number of computers bought: 20
+Enter commission percentage: 9
+Cost of computers before commission: 1012.00
+Cost of computers before commission: 1103.08
+
+
+-------------------------------------------------------
+
+t09
+
+-------------------------------------------------------
+Enter a numerator for fraction 1: 1
+Enter a denominator for fraction 1: 2
+
+Enter a numerator for fraction 2: 4
+Enter a denominator for fraction 2: 5
+
+Numerator of the fraction product: 4
+Denominator of the fraction product: 10
+Decimal form: 0.40
+
+
+Enter a numerator for fraction 1: 2
+Enter a denominator for fraction 1: 4
+
+Enter a numerator for fraction 2: 6
+Enter a denominator for fraction 2: 8
+
+Numerator of the fraction product: 12
+Denominator of the fraction product: 32
+Decimal form: 0.38
+ 
+Enter a numerator for fraction 1: 13
+Enter a denominator for fraction 1: 5
+
+Enter a numerator for fraction 2: 6
+Enter a denominator for fraction 2: 7
+
+Numerator of the fraction product: 78
+Denominator of the fraction product: 35
+Decimal form: 2.23
+
+-------------------------------------------------------
+
+t15
+
+-------------------------------------------------------
+
+Enter an amount in seconds: 956000
+In days, hours, minutes, and seconds
+(11, 1, 33, 20)
+
+Enter an amount in seconds: 105050
+In days, hours, minutes, and seconds
+(1, 5, 10, 50)
+
+Enter an amount in seconds: 86400
+In days, hours, minutes, and seconds
+(1, 0, 0, 0)
+
+-------------------------------------------------------
+
+
+
+ 

@@ -1,0 +1,85 @@
+"""
+-------------------------------------------------------
+Assignment  Testing
+-------------------------------------------------------
+Author:  Jessica Desmond 
+ID:      169033605
+Email:   desm3605@mylaurier.ca
+Version: 2023-10-20
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Sqft. to acres: 1040456
+1040456.0 sqft. in acres is 23.885583103764922
+
+Sqft. to acres: 100000
+100000.0 sqft. in acres is 2.295684113865932
+
+Sqft. to acres: 234565
+234565.0 sqft. in acres is 5.384871441689623
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter lawn width: 4.0
+Enter lawn length: 100.0
+Enter sqft. mowed per minute: 4.0
+It will take about 100.0 minutes to mow the lawn
+
+Enter lawn width: 20.0
+Enter lawn length: 50.0
+Enter sqft. mowed per minute: 4.0
+It will take about 250.0 minutes to mow the lawn
+
+Enter lawn width: 43
+Enter lawn length: 56
+Enter sqft. mowed per minute: 10
+It will take about 240.8 minutes to mow the lawn
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter date (YYYYMMDD): 19621025
+The extracted date is: (1962, 10, 25)
+
+Enter date (YYYYMMDD): 20040622
+The extracted date is: (2004, 06, 22)
+
+Enter date (YYYYMMDD): 20040606
+The extracted date is: (2004, 06, 06)
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Numerator of first fraction: 1
+Denominator of first fraction: 2
+Numerator of second fraction: 3
+Denominator of second fraction: 4
+Fraction numerator,denominator and decimal: (3, 8, 0.375)
+
+Numerator of first fraction: 5
+Denominator of first fraction: 6
+Numerator of second fraction: 7
+Denominator of second fraction: 8
+Fraction numerator,denominator and decimal: (35, 48, 0.7291666666666667)
+
+Numerator of first fraction: 2
+Denominator of first fraction: 4
+Numerator of second fraction: 6
+Denominator of second fraction: 8
+Fraction numerator,denominator and decimal: (12, 32, 0.375)
+ 
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter falling time of object: 15
+Object has fallen a distance of 1102.50 meters
+
+Enter falling time of object: 30
+Object has fallen a distance of 4410.00 meters
+
+Enter falling time of object: 20
+Object has fallen a distance of 1960.00 meters
+
+-------------------------------------------------------

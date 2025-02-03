@@ -1,0 +1,96 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Jessica Desmond
+ID:      169033605
+Email:   desm3605@mylaurier.ca
+Version: 2023-09-25
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Selected quotes from Mark Twain:
+
+
+"Do the right thing. It will gratify some people and astonish the rest."
+"All generalizations are false, including this one."
+"It is better to keep your mouth closed and let people think you are a fool
+than to open it and remove all doubt."
+
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Enter cost: $0
+Enter quantity: 0
+
+
+Given a cost of $0.00 and a quantity of 0 the total is $0.00
+
+Enter cost: $4.67
+Enter quantity: 5
+
+
+Given a cost of $4.67 and a quantity of 5 the total is $23.35
+
+Enter cost: $5.34
+Enter quantity: 4
+
+
+Given a cost of $5.34 and a quantity of 4 the total is $21.36
+
+-------------------------------------------------------
+t09
+-------------------------------------------------------
+Enter sweatband cost: $4.95
+Enter pants cost: $23.27
+Enter jacket cost: $103.21
+
+
+Clothes    Cost     
+Sweatband  $   4.95
+Pants      $  23.27
+Jacket     $ 103.21
+Total      $ 131.43
+
+Enter sweatband cost: $12
+Enter pants cost: $2
+Enter jacket cost: $2
+
+
+Clothes    Cost     
+Sweatband  $  12.00
+Pants      $   2.00
+Jacket     $   2.00
+Total      $  16.00
+
+Enter sweatband cost: $1
+Enter pants cost: $2
+Enter jacket cost: $3
+
+
+Clothes    Cost     
+Sweatband  $   1.00
+Pants      $   2.00
+Jacket     $   3.00
+Total      $   6.00
+
+
+-------------------------------------------------------
+t12
+-------------------------------------------------------
+Values
+First:  ___100
+Second: ____34
+Third:  ___933
+Total:  __1067
+-------------------------------------------------------
+t15
+-------------------------------------------------------
+654321
+654321.000000
+654.320000
+Hello World
+-------------------------------------------------------

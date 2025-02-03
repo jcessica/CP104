@@ -1,0 +1,41 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jessica_folder/Desktop/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/Midterm_practice_l04/com.python.pydev.analysis/v2_indexcache
+functions|1698816787610506399|/Users/jessica_folder/Desktop/CP104/Midterm_practice_l04/src/functions.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=functions
+1=/Users/jessica_folder/Desktop/CP104/Midterm_practice_l04/src/functions.py
+-- END DICTIONARY
+-- START TREE 1
+25
+are|1|area!1^64#5*18@
+c_t|1|c_to_f!1^282#5*18@
+cel|1|CELFAR!1^23#1*19@
+cir|1|circumference!1^47#5*18@
+com|1|computer_costs!1^185#5*18@
+day|1|DAYS_!1^28#1*19@
+dia|1|diameter!1^30#5*18@
+dim|1|DIME!1^16#1*19@
+f_t|1|f_to_c!1^299#5*18@
+fra|1|fraction_product!1^207#5*18@
+fre|1|FREEZE_PT!1^24#1*19@
+hou|1|HOURS_!1^26#1*19@
+loo|1|LOONIE!1^18#1*19@
+min|1|MINUTES_!1^27#1*19@
+nic|1|NICKEL!1^15#1*19@
+pop|1|population!1^233#5*18@
+pyt|1|pythag!1^132#5*18@
+qua|1|QUARTER!1^17#1*19@
+rig|1|right_triangle!1^107#5*18@
+sec|1|SECONDS_YEAR!1^21#1*19@
+slo|1|slope!1^259#5*18@
+squ|1|square_pyramid!1^81#5*18@
+tim|1|time_values!1^315#5*18@
+too|1|TOONIE!1^19#1*19@
+tot|1|total_change!1^157#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

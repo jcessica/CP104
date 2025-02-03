@@ -1,0 +1,17 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jessica_folder/Desktop/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/Final_practice_l06/com.python.pydev.analysis/v2_indexcache
+functions|1702423470342429826|/Users/jessica_folder/Desktop/CP104/Final_practice_l06/src/functions.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=functions
+1=/Users/jessica_folder/Desktop/CP104/Final_practice_l06/src/functions.py
+-- END DICTIONARY
+-- START TREE 1
+1
+sum|1|sum_even!1^16#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

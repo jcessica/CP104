@@ -1,0 +1,44 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jessica_folder/Desktop/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/desm3605_l07/com.python.pydev.analysis/v2_indexcache
+t01|1698878307476903802|/Users/jessica_folder/Desktop/CP104/desm3605_l07/src/t01.py
+functions|1698965849476911192|/Users/jessica_folder/Desktop/CP104/desm3605_l07/src/functions.py
+t04|1698957448157939090|/Users/jessica_folder/Desktop/CP104/desm3605_l07/src/t04.py
+t07|1698962078442953755|/Users/jessica_folder/Desktop/CP104/desm3605_l07/src/t07.py
+t06|1698959157883453791|/Users/jessica_folder/Desktop/CP104/desm3605_l07/src/t06.py
+t09|1698963367536638739|/Users/jessica_folder/Desktop/CP104/desm3605_l07/src/t09.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+1=/Users/jessica_folder/Desktop/CP104/desm3605_l07/src/t06.py
+11=/Users/jessica_folder/Desktop/CP104/desm3605_l07/src/t07.py
+6=functions
+8=t01
+5=/Users/jessica_folder/Desktop/CP104/desm3605_l07/src/functions.py
+4=t04
+12=t07
+2=t06
+9=/Users/jessica_folder/Desktop/CP104/desm3605_l07/src/t09.py
+10=t09
+3=/Users/jessica_folder/Desktop/CP104/desm3605_l07/src/t04.py
+7=/Users/jessica_folder/Desktop/CP104/desm3605_l07/src/t01.py
+-- END DICTIONARY
+-- START TREE 1
+13
+cat|1|categ!1^15#1*19@
+fan|1|faneto!3^18#1*35@
+fun|0|
+get|1|get_int!5^156#5*50@
+hi_|1|hi_lo_game!5^18#5*50@
+hig|2|high!7^16#1*67@high!9^18#1*83@
+int|1|int_!9^20#1*83@
+low|1|low!9^16#1*83@
+mea|2|meal_costs!5^106#5*50@meal!11^16#1*99@
+num|1|num_categories!5^72#5*50@
+sto|1|STOP!5^16#1*51@
+sum|1|sum_squares!5^50#5*50@
+tar|1|targ!3^16#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

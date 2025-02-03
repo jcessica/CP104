@@ -1,0 +1,97 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Jessica Desmond
+ID:      169033605
+Email:   desm3605@mylaurier.ca
+Version: 2023-09-19
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Temperature (F): 77
+Temperature (C): 25
+
+Temperature (F): -40
+Temperature (C): -40
+
+Temperature (F): 0
+Temperature (C): -17
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Hourly rate of pay: 14.96
+Hours worked in the week: 30.5
+Total pay for the week:  $ 456.28
+
+Hourly rate of pay: 17.25
+Hours worked in the week: 17
+Total pay for the week:  $ 293.25
+
+Hourly rate of pay: 100
+Hours worked in the week: 1
+Total pay for the week:  $ 100.0
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Enter the principal amount of your mortgage: 200000
+Enter your yearly interest rate: 5
+Enter the life of your mortgage (in years): 20
+Mortgage principal ($):  200000.0
+Number of years:  20.0
+Yearly interest rate (%):  5
+The monthly payments are: $ 1319.91
+
+Enter the principal amount of your mortgage: 100
+Enter the life of your mortgage (in years): 1
+Enter your yearly interest rate: 10
+The monthly payments are: $ 8.79158872300099
+
+Enter the principal amount of your mortgage: 1
+Enter the life of your mortgage (in years): 1
+Enter your yearly interest rate: 1
+The monthly payments are: $ 0.08378541155580528
+
+Enter the principal amount of your mortgage: 200000
+Enter the life of your mortgage (in years): 20
+Enter your yearly interest rate: 5
+The monthly payments are: $ 1319.9114784333174
+-------------------------------------------------------
+t09
+-------------------------------------------------------
+Diameter of container base (cm): 1
+Height of container (cm): 5
+Cost of material ($/cm^2): .5
+Number of containers: 100
+The total cost of one container is: $ 8.2425
+The total cost of all containers is: $ 824.25
+
+Diameter of container base (cm): 1
+Height of container (cm): 1
+Cost of material ($/cm^2): 1
+Number of containers: 1
+The total cost of one container is: $ 3.9250000000000003
+The total cost of all containers is: $ 3.9250000000000003
+
+Diameter of container base (cm): 2
+Height of container (cm): 2
+Cost of material ($/cm^2): 5
+Number of containers: 100
+The total cost of one container is: $ 78.5
+The total cost of all containers is: $ 7850.0
+-------------------------------------------------------
+t12
+-------------------------------------------------------
+Number of seconds: 105050
+Days: 1 Hours: 5 Minutes: 10 Seconds: 50
+
+Number of seconds: 86400
+Days: 1 Hours: 0 Minutes: 0 Seconds: 0
+
+Number of seconds: 500
+Days: 0 Hours: 0 Minutes: 8 Seconds: 20
+-------------------------------------------------------

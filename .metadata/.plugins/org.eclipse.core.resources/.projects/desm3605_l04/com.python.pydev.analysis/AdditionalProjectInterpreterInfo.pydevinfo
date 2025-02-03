@@ -1,0 +1,41 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jessica_folder/Desktop/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/desm3605_l04/com.python.pydev.analysis/v2_indexcache
+functions|1696281960295936908|/Users/jessica_folder/Desktop/CP104/desm3605_l04/src/functions.py
+t02|1696281446423391279|/Users/jessica_folder/Desktop/CP104/desm3605_l04/src/t02.py
+t05|1696284235423350930|/Users/jessica_folder/Desktop/CP104/desm3605_l04/src/t05.py
+t15|1696285771612097079|/Users/jessica_folder/Desktop/CP104/desm3605_l04/src/t15.py
+t09|1696285521683792680|/Users/jessica_folder/Desktop/CP104/desm3605_l04/src/t09.py
+t08|1696285165033375244|/Users/jessica_folder/Desktop/CP104/desm3605_l04/src/t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+3=/Users/jessica_folder/Desktop/CP104/desm3605_l04/src/functions.py
+4=functions
+7=/Users/jessica_folder/Desktop/CP104/desm3605_l04/src/t08.py
+9=/Users/jessica_folder/Desktop/CP104/desm3605_l04/src/t09.py
+6=t02
+1=/Users/jessica_folder/Desktop/CP104/desm3605_l04/src/t05.py
+2=t05
+12=t15
+11=/Users/jessica_folder/Desktop/CP104/desm3605_l04/src/t15.py
+10=t09
+5=/Users/jessica_folder/Desktop/CP104/desm3605_l04/src/t02.py
+8=t08
+-- END DICTIONARY
+-- START TREE 1
+10
+adj|1|adjacent_1!1^18#1*19@
+cir|2|circumference!3^18#5*34@circ_calc!5^19#1*51@
+com|4|computer_costs!3^63#5*34@comp_bought!7^19#1*67@commiss_perc!7^21#1*67@comp_cost!7^17#1*67@
+fra|5|fraction1_den!9^20#1*83@fraction1_num!9^18#1*83@fraction_product!3^86#5*34@fraction2_num!9^24#1*83@fraction2_den!9^26#1*83@
+opp|1|opposite_1!1^20#1*19@
+rad|1|radius_calc!5^17#1*51@
+rig|1|right_triangle!3^39#5*34@
+sec|1|seconds_input!11^16#1*99@
+tim|1|time_split!3^111#5*34@
+tot|1|total_time!11^18#1*99@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

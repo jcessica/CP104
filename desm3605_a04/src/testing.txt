@@ -1,0 +1,78 @@
+"""
+-------------------------------------------------------
+Assignment  Testing
+-------------------------------------------------------
+Author:  Jessica Desmond
+ID:      169033605
+Email:   desm3605@mylaurier.ca
+Version: 2023-10-27
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter day number: 1
+Sunday
+
+Enter day number: 5
+Thursday
+
+Enter day number: 7
+Saturday
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter air quality index (AQ1): 154
+Unhealthy
+
+Enter air quality index (AQ1): 102
+Unhealthy for Sensitive Groups
+
+Enter air quality index (AQ1): 250
+Very Unhealthy
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter value: -8.0
+Enter value: 12.0
+Enter value: 20.0
+16.0
+
+Enter value: 5
+Enter value: 3
+Enter value: 7
+6.0
+
+Enter value: 45
+Enter value: 5
+Enter value: 6
+25.5
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter "red" "green", or "blue": blue
+Enter "red" "green", or "blue": green
+The resulting mix is aqua
+
+Enter "red" "green", or "blue": red
+Enter "red" "green", or "blue": green
+The resulting mix is yellow
+
+Enter "red" "green", or "blue": blue
+Enter "red" "green", or "blue": red
+The resulting mix is fuchsia
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter number: 6
+Hoo 
+
+Enter number: 7
+Rah
+
+Enter number: 14
+Hoo Rah
+-------------------------------------------------------

@@ -1,0 +1,78 @@
+"""
+-------------------------------------------------------
+Lab      Testing
+-------------------------------------------------------
+Author:  Jessica Desmond
+ID:      169033605
+Email:   desm3605@mylaurier.ca
+Version: 2023-11-16
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Password: ur8493-320
+no upper case
+
+Password: JessicaDACOOLEST
+no digits
+
+Password: ___
+not long enough
+no digits
+no upper case
+no lower case
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+Word: aeiouAEIOU
+10
+
+Word: Jessica
+3
+
+Word: aerospace
+5
+
+Word: xyz
+0
+
+-------------------------------------------------------
+t09
+-------------------------------------------------------
+String: "It is a beautiful day! We spent $40 today."
+2
+
+String: If the limit never approaches anything, then the limit does not exist!!!
+3
+
+String: "#", "@", "$", "%", "&", "!"
+6
+-------------------------------------------------------
+t12
+-------------------------------------------------------
+String: Number 1, Number 2, Number 3,
+Number 1. Number 2. Number 3.
+
+String: If the limit never approaches anything, then the limit does not exist!!!
+If the limit never approaches anything. then the limit does not exist!!!
+
+String: ,,,,,
+.....
+
+
+-------------------------------------------------------
+t13
+-------------------------------------------------------
+String: They ate 3 hotdogs, 4 hamburgs, and 12 pieces of pizza.
+10
+
+String: I need about 17 dollars 
+8
+
+String: CP104 IS THE BEST
+5
+
+-------------------------------------------------------
+

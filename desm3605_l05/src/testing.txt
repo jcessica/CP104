@@ -1,0 +1,88 @@
+"""
+-------------------------------------------------------
+Lab  Testing
+-------------------------------------------------------
+Author:  Jessica Desmond
+ID:      169033605
+Email:   desm3605@mylaurier.ca
+Version: 2023-10-19
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter membership cost: 50
+Enter number of friends: 2
+Your membership cost is: 45.00
+
+Enter membership cost: 30
+Enter number of friends: 0
+Your membership cost is: 30.00
+
+Enter membership cost: 30
+Enter number of friends: 3
+Your membership cost is: 25.50
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter year: 2004
+Is this year a leap year: True
+
+Enter year: 1999
+Is this year a leap year: False
+
+Enter year: 1800
+Is this year a leap year: False
+
+Enter year: 1600
+Is this year a leap year: True
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+Enter hourly wage: 45
+Enter hours worked: 46
+Your net payment after tax deductions is 2125.07 
+
+Enter hourly wage: 50
+Enter hours worked: 2
+Your net payment after tax deductions is 96.38 
+
+Enter hourly wage: 45
+Enter hours worked: 30
+Your net payment after tax deductions is 1301.06 
+
+-------------------------------------------------------
+t12
+-------------------------------------------------------
+Enter status F or P: P
+Enter years: 12
+Enter salary: 25000
+25750.0
+
+Enter status F or P: P
+Enter years: 2
+Enter salary: 25000
+25250.0
+
+Enter status F or P: F
+Enter years: 6
+Enter salary: 25000
+25500.0
+
+-------------------------------------------------------
+t15
+-------------------------------------------------------
+Order B - burger or W - wings: W
+Make it a combo? (Y/N): Y
+Add F - fries or S - salad: F
+9.50
+
+Order B - burger or W - wings: B
+Make it a combo? (Y/N): N
+6.00
+
+Order B - burger or W - wings: B
+Make it a combo? (Y/N): Y
+Add F - fries or S - salad: F
+7.50
+-------------------------------------------------------

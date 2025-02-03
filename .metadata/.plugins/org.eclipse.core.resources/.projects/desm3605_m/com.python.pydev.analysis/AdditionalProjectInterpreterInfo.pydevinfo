@@ -1,0 +1,57 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jessica_folder/Desktop/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/desm3605_m/com.python.pydev.analysis/v2_indexcache
+t01|1698773458000000000|/Users/jessica_folder/Desktop/CP104/desm3605_m/src/t01.py
+t01_functions|1698849838250458428|/Users/jessica_folder/Desktop/CP104/desm3605_m/src/t01_functions.py
+t03|1698773458000000000|/Users/jessica_folder/Desktop/CP104/desm3605_m/src/t03.py
+t04_functions|1698851210868712299|/Users/jessica_folder/Desktop/CP104/desm3605_m/src/t04_functions.py
+t02|1698850494421871451|/Users/jessica_folder/Desktop/CP104/desm3605_m/src/t02.py
+t04|1698851761807021697|/Users/jessica_folder/Desktop/CP104/desm3605_m/src/t04.py
+t02_functions|1698850573752631016|/Users/jessica_folder/Desktop/CP104/desm3605_m/src/t02_functions.py
+t03_functions|1698851680755151316|/Users/jessica_folder/Desktop/CP104/desm3605_m/src/t03_functions.py
+-- END DISKCACHE
+-- START DICTIONARY
+16
+5=/Users/jessica_folder/Desktop/CP104/desm3605_m/src/t04.py
+7=/Users/jessica_folder/Desktop/CP104/desm3605_m/src/t03.py
+10=t01_functions
+9=/Users/jessica_folder/Desktop/CP104/desm3605_m/src/t01_functions.py
+2=t02_functions
+11=/Users/jessica_folder/Desktop/CP104/desm3605_m/src/t03_functions.py
+3=/Users/jessica_folder/Desktop/CP104/desm3605_m/src/t01.py
+15=/Users/jessica_folder/Desktop/CP104/desm3605_m/src/t02.py
+12=t03_functions
+1=/Users/jessica_folder/Desktop/CP104/desm3605_m/src/t02_functions.py
+4=t01
+13=/Users/jessica_folder/Desktop/CP104/desm3605_m/src/t04_functions.py
+8=t03
+14=t04_functions
+16=t02
+6=t04
+-- END DICTIONARY
+-- START TREE 1
+20
+cat|1|categorize!1^16#5*18@
+cen|1|cents!3^14#1*35@
+cla|1|classification!5^17#1*51@
+cos|1|cost!7^14#1*67@
+dim|1|DIME!9^14#1*83@
+dis|1|DISCOUNT!11^16#1*99@
+ext|1|EXTRA!11^15#1*99@
+fur|1|FURNACE_TUNE!11^14#1*99@
+get|1|get_it!13^13#5*114@
+gra|1|GRAND!1^11#1*19@
+loo|1|LOONIES!9^17#1*83@
+mas|1|MASTER!1^12#1*19@
+min|1|minimal_change!9^22#5*82@
+nic|1|NICKEL!9^15#1*83@
+pro|1|PRO!1^13#1*19@
+qua|1|QUARTERS!9^16#1*83@
+rat|1|rating!15^15#1*131@
+res|1|response!5^15#1*51@
+ser|1|servicing!11^19#5*98@
+str|1|strokes!15^14#1*131@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,43 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jessica_folder/Desktop/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/desm3605_a08/com.python.pydev.analysis/v2_indexcache
+functions|1700942910577978231|/Users/jessica_folder/Desktop/CP104/desm3605_a08/src/functions.py
+t01|1700941403215760868|/Users/jessica_folder/Desktop/CP104/desm3605_a08/src/t01.py
+t03|1700920504423447061|/Users/jessica_folder/Desktop/CP104/desm3605_a08/src/t03.py
+t02|1700920050488545935|/Users/jessica_folder/Desktop/CP104/desm3605_a08/src/t02.py
+t05|1700930507435387208|/Users/jessica_folder/Desktop/CP104/desm3605_a08/src/t05.py
+t04|1700925438662402323|/Users/jessica_folder/Desktop/CP104/desm3605_a08/src/t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+11=/Users/jessica_folder/Desktop/CP104/desm3605_a08/src/t05.py
+1=/Users/jessica_folder/Desktop/CP104/desm3605_a08/src/functions.py
+3=/Users/jessica_folder/Desktop/CP104/desm3605_a08/src/t04.py
+7=/Users/jessica_folder/Desktop/CP104/desm3605_a08/src/t03.py
+2=functions
+6=t01
+8=t03
+10=t02
+12=t05
+4=t04
+5=/Users/jessica_folder/Desktop/CP104/desm3605_a08/src/t01.py
+9=/Users/jessica_folder/Desktop/CP104/desm3605_a08/src/t02.py
+-- END DICTIONARY
+-- START TREE 1
+12
+add|1|add_spaces!1^15#5*18@
+com|1|common_end!1^82#5*18@
+has|1|has_word_chain!1^145#5*18@
+is_|1|is_valid!3^20#1*35@
+isb|1|isbn!3^18#1*35@
+plu|1|pluralize!1^54#5*18@
+sen|1|sentence!5^16#1*51@
+spa|1|spaced!5^18#1*51@
+str|3|str2!7^16#1*67@string_!9^15#1*83@str1!7^15#1*67@
+suf|1|suffix!7^18#1*67@
+val|1|valid_isbn!1^113#5*18@
+wor|2|words!11^15#1*99@word_chain!11^16#1*99@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

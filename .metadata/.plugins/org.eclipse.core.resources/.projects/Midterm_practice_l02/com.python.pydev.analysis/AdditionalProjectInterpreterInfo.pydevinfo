@@ -1,0 +1,57 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jessica_folder/Desktop/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/Midterm_practice_l02/com.python.pydev.analysis/v2_indexcache
+t01|1698600144926897567|/Users/jessica_folder/Desktop/CP104/Midterm_practice_l02/src/t01.py
+t03|1698601434958484169|/Users/jessica_folder/Desktop/CP104/Midterm_practice_l02/src/t03.py
+t02|1698600508135606248|/Users/jessica_folder/Desktop/CP104/Midterm_practice_l02/src/t02.py
+t05|1698603094993666332|/Users/jessica_folder/Desktop/CP104/Midterm_practice_l02/src/t05.py
+t04|1698601838425765891|/Users/jessica_folder/Desktop/CP104/Midterm_practice_l02/src/t04.py
+t07|1698604188057685935|/Users/jessica_folder/Desktop/CP104/Midterm_practice_l02/src/t07.py
+t06|1698603516420226656|/Users/jessica_folder/Desktop/CP104/Midterm_practice_l02/src/t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+5=/Users/jessica_folder/Desktop/CP104/Midterm_practice_l02/src/t01.py
+1=/Users/jessica_folder/Desktop/CP104/Midterm_practice_l02/src/t02.py
+3=/Users/jessica_folder/Desktop/CP104/Midterm_practice_l02/src/t04.py
+11=/Users/jessica_folder/Desktop/CP104/Midterm_practice_l02/src/t03.py
+9=/Users/jessica_folder/Desktop/CP104/Midterm_practice_l02/src/t06.py
+13=/Users/jessica_folder/Desktop/CP104/Midterm_practice_l02/src/t05.py
+7=/Users/jessica_folder/Desktop/CP104/Midterm_practice_l02/src/t07.py
+6=t01
+12=t03
+2=t02
+14=t05
+4=t04
+8=t07
+10=t06
+-- END DICTIONARY
+-- START TREE 1
+23
+cel|1|celsius!1^21#1*19@
+d1|1|d1!3^18#1*35@
+d2|1|d2!3^22#1*35@
+fah|4|FAHREN_CELSIUS!5^16#1*51@fahrenheit!1^19#1*19@fahrenheit!5^22#1*51@FAHREN_CELSIUS!1^16#1*19@
+fly|3|flyers!7^16#1*67@flyers_per!7^22#1*67@fly_left!7^20#1*67@
+fro|1|FROZEN_FAHREN!5^18#1*51@
+int|2|interest_input!9^19#1*83@interest!9^23#1*83@
+lar|2|LARGE_DOG!11^16#1*99@large_dogs!11^20#1*99@
+m_d|1|m_den!9^27#1*83@
+m_n|1|m_num!9^25#1*83@
+mor|1|mortgage!9^29#1*83@
+n1|1|n1!3^16#1*35@
+n2|1|n2!3^20#1*35@
+n_y|2|n_years_input!9^17#1*83@n_years!9^21#1*83@
+pri|1|principal_amt!9^15#1*83@
+r|1|r!3^25#1*35@
+rat|1|rate_pay!13^16#1*115@
+sma|2|SMALL_DOG!11^18#1*99@small_dogs!11^22#1*99@
+tem|1|TEMP_RATIO!1^17#1*19@
+tes|1|test_vals!5^20#1*51@
+tot|2|total!11^24#1*99@total_pay!13^20#1*115@
+vol|1|volunteers!7^18#1*67@
+wor|1|worked_hours!13^18#1*115@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

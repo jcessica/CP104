@@ -1,0 +1,55 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jessica_folder/Desktop/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/desm3605_l02/com.python.pydev.analysis/v2_indexcache
+t12|1695290796000000000|/Users/jessica_folder/Desktop/CP104/desm3605_l02/src/t12.py
+t02|1695290054000000000|/Users/jessica_folder/Desktop/CP104/desm3605_l02/src/t02.py
+t05|1695161584000000000|/Users/jessica_folder/Desktop/CP104/desm3605_l02/src/t05.py
+t06|1695290796000000000|/Users/jessica_folder/Desktop/CP104/desm3605_l02/src/t06.py
+t09|1695247194000000000|/Users/jessica_folder/Desktop/CP104/desm3605_l02/src/t09.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+3=/Users/jessica_folder/Desktop/CP104/desm3605_l02/src/t02.py
+9=/Users/jessica_folder/Desktop/CP104/desm3605_l02/src/t05.py
+6=t12
+7=/Users/jessica_folder/Desktop/CP104/desm3605_l02/src/t06.py
+4=t02
+1=/Users/jessica_folder/Desktop/CP104/desm3605_l02/src/t09.py
+10=t05
+5=/Users/jessica_folder/Desktop/CP104/desm3605_l02/src/t12.py
+8=t06
+2=t09
+-- END DICTIONARY
+-- START TREE 1
+27
+PI|1|PI!1^16#1*19@
+cel|1|celsius_output!3^26#1*35@
+cir|1|circular_area!1^30#1*19@
+con|1|container_prod!1^25#1*19@
+cos|2|cost_cont_all!1^42#1*19@cost_cont_one!1^39#1*19@
+day|2|days_remainder!5^23#1*51@days!5^20#1*51@
+den|1|denominator!7^34#1*67@
+dia|1|diameter_base!1^19#1*19@
+fah|2|FAHREN_CELSIUS!3^20#1*35@fahrenheit_input!3^23#1*35@
+hei|1|height_cyl!1^21#1*19@
+hou|3|hourly_pay!9^17#1*83@hours!5^26#1*51@hours_remainder!5^29#1*51@
+lif|1|life_mortgage!7^19#1*67@
+mat|1|material_cost!1^23#1*19@
+max|1|MAX!5^15#1*51@
+min|2|minutes_remainder!5^35#1*51@minutes!5^32#1*51@
+mon|2|monthly_pay_m!7^37#1*67@monthly_int_i!7^26#1*67@
+num|2|numerator!7^32#1*67@numb_monthly_pay_n!7^29#1*67@
+out|1|output_weekly!9^26#1*83@
+pri|1|principal_amt_p!7^16#1*67@
+rad|1|radius!1^27#1*19@
+rec|1|rectangular_area!1^33#1*19@
+sec|2|seconds_input!5^17#1*51@seconds!5^38#1*51@
+sur|1|surface_cont!1^36#1*19@
+wat|1|WATER_FREEZE!3^17#1*35@
+wee|1|weekly_pay!9^23#1*83@
+wor|1|worked_hours!9^20#1*83@
+yea|1|yearly_int!7^22#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,21 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jessica_folder/Desktop/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/Final_practice_l05/com.python.pydev.analysis/v2_indexcache
+functions|1702416687192907254|/Users/jessica_folder/Desktop/CP104/Final_practice_l05/src/functions.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=functions
+1=/Users/jessica_folder/Desktop/CP104/Final_practice_l05/src/functions.py
+-- END DICTIONARY
+-- START TREE 1
+5
+get|1|get_weight!1^18#5*18@
+gra|1|GRAVITY!1^16#1*19@
+is_|2|is_leap!1^45#5*18@is_divisible!1^77#5*18@
+qua|1|quadrant!1^135#5*18@
+rom|1|roman_numeral!1^103#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

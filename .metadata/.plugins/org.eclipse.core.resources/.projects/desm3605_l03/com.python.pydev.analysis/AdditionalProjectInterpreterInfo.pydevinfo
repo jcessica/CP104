@@ -1,0 +1,38 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jessica_folder/Desktop/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/desm3605_l03/com.python.pydev.analysis/v2_indexcache
+t12|1695843294000000000|/Users/jessica_folder/Desktop/CP104/desm3605_l03/src/t12.py
+t03|1695680948000000000|/Users/jessica_folder/Desktop/CP104/desm3605_l03/src/t03.py
+t15|1695842168000000000|/Users/jessica_folder/Desktop/CP104/desm3605_l03/src/t15.py
+t06|1695682868000000000|/Users/jessica_folder/Desktop/CP104/desm3605_l03/src/t06.py
+t09|1695842672000000000|/Users/jessica_folder/Desktop/CP104/desm3605_l03/src/t09.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+3=/Users/jessica_folder/Desktop/CP104/desm3605_l03/src/t15.py
+5=/Users/jessica_folder/Desktop/CP104/desm3605_l03/src/t12.py
+6=t12
+7=/Users/jessica_folder/Desktop/CP104/desm3605_l03/src/t09.py
+4=t15
+1=/Users/jessica_folder/Desktop/CP104/desm3605_l03/src/t06.py
+2=t06
+8=t09
+-- END DICTIONARY
+-- START TREE 1
+12
+cos|1|cost!1^12#1*19@
+dec|1|decimal!3^13#1*35@
+fir|1|first!5^12#1*51@
+int|1|integer!3^12#1*35@
+jac|1|jacket_cost!7^16#1*67@
+pan|1|pants_cost!7^14#1*67@
+phr|1|phrase!3^14#1*35@
+qua|1|quantity!1^14#1*19@
+sec|1|second!5^13#1*51@
+swe|1|sweatband_cost!7^12#1*67@
+thi|1|third!5^14#1*51@
+tot|3|total!7^18#1*67@total!5^16#1*51@total!1^16#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

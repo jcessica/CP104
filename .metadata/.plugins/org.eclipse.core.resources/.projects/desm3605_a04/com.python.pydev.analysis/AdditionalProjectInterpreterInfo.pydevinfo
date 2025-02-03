@@ -1,0 +1,48 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jessica_folder/Desktop/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/desm3605_a04/com.python.pydev.analysis/v2_indexcache
+functions|1698514719747880293|/Users/jessica_folder/Desktop/CP104/desm3605_a04/src/functions.py
+t01|1698462474870561779|/Users/jessica_folder/Desktop/CP104/desm3605_a04/src/t01.py
+t03|1698461453765018782|/Users/jessica_folder/Desktop/CP104/desm3605_a04/src/t03.py
+t02|1698461958867664208|/Users/jessica_folder/Desktop/CP104/desm3605_a04/src/t02.py
+t05|1698459798148577328|/Users/jessica_folder/Desktop/CP104/desm3605_a04/src/t05.py
+t04|1698460559348047517|/Users/jessica_folder/Desktop/CP104/desm3605_a04/src/t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+1=/Users/jessica_folder/Desktop/CP104/desm3605_a04/src/t02.py
+7=/Users/jessica_folder/Desktop/CP104/desm3605_a04/src/t01.py
+5=/Users/jessica_folder/Desktop/CP104/desm3605_a04/src/functions.py
+6=functions
+8=t01
+4=t03
+2=t02
+10=t05
+12=t04
+3=/Users/jessica_folder/Desktop/CP104/desm3605_a04/src/t03.py
+9=/Users/jessica_folder/Desktop/CP104/desm3605_a04/src/t05.py
+11=/Users/jessica_folder/Desktop/CP104/desm3605_a04/src/t04.py
+-- END DICTIONARY
+-- START TREE 1
+17
+air|1|air_quality_index!1^17#1*19@
+ave|1|average!3^22#1*35@
+col|1|colour_combine!5^140#5*50@
+day|3|day_name!5^21#5*50@day_num!7^17#1*67@day!7^19#1*67@
+div|1|division!9^19#1*83@
+haz|1|HAZARD!5^13#1*51@
+hoo|1|hoo_rah!5^188#5*50@
+lar|1|largest_average!5^104#5*50@
+mix|1|mixture!11^20#1*99@
+mod|1|MODERATE!5^17#1*51@
+num|1|number!9^17#1*83@
+pol|2|pollution!1^19#1*19@pollution_ranking!5^64#5*50@
+rgb|2|rgb_colour1!11^16#1*99@rgb_colour2!11^18#1*99@
+sen|1|SENSITIVE!5^16#1*51@
+unh|1|UNHEALTHY!5^15#1*51@
+v_u|1|V_UNHEALTHY!5^14#1*51@
+val|3|val1!3^16#1*35@val3!3^20#1*35@val2!3^18#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

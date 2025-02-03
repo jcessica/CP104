@@ -1,0 +1,39 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jessica_folder/Desktop/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/desm3605_a03/com.python.pydev.analysis/v2_indexcache
+t01|1697830725485594976|/Users/jessica_folder/Desktop/CP104/desm3605_a03/src/t01.py
+functions|1697846581023491251|/Users/jessica_folder/Desktop/CP104/desm3605_a03/src/functions.py
+t03|1697832657515528869|/Users/jessica_folder/Desktop/CP104/desm3605_a03/src/t03.py
+t02|1697832535541173826|/Users/jessica_folder/Desktop/CP104/desm3605_a03/src/t02.py
+t05|1697825064547971728|/Users/jessica_folder/Desktop/CP104/desm3605_a03/src/t05.py
+t04|1697825064539352944|/Users/jessica_folder/Desktop/CP104/desm3605_a03/src/t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+1=/Users/jessica_folder/Desktop/CP104/desm3605_a03/src/functions.py
+2=functions
+4=t01
+10=t02
+8=t05
+6=t04
+3=/Users/jessica_folder/Desktop/CP104/desm3605_a03/src/t01.py
+7=/Users/jessica_folder/Desktop/CP104/desm3605_a03/src/t05.py
+9=/Users/jessica_folder/Desktop/CP104/desm3605_a03/src/t02.py
+5=/Users/jessica_folder/Desktop/CP104/desm3605_a03/src/t04.py
+-- END DICTIONARY
+-- START TREE 1
+10
+acr|2|ACRES_RATIO!1^13#1*19@acres_num!3^18#1*35@
+ext|1|extract_date!1^53#5*18@
+foo|1|footage_to_acres!1^16#5*18@
+fun|2|func!5^16#5*50@func!7^16#5*66@
+law|2|lawn_mow!9^22#1*83@lawn_mow_time!1^32#5*18@
+len|1|length1!9^18#1*83@
+mul|1|multiply_fractions!1^78#5*18@
+spe|1|speed1!9^20#1*83@
+sqf|2|SQFT!1^12#1*19@sqft_num!3^16#1*35@
+wid|1|width1!9^16#1*83@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

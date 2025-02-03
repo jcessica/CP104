@@ -1,0 +1,34 @@
+"""
+------------------------------------------------------------------------
+Assignment 1, Task 3
+------------------------------------------------------------------------
+Author: Jessica Desmond
+ID:     169033605
+Email:  desm3605@mylaurier.ca
+__updated__ = "2023-10-05"
+------------------------------------------------------------------------
+"""
+
+date = int(input("Enter a date in the format YYYYMMDD: "))
+
+days = int(date % 100)
+
+month = int(((date - days)/100) % 100)
+
+year = int((((date - days)/100) - month)/100)
+
+#In order to fill the MM space with two digts
+if month < 10:
+    formatted_month = f"{month:02d}"
+else:
+    formatted_month = month
+
+#In order to fill the DD space with two digits
+if days < 10:
+    formatted_days = f"{days:02d}"
+else:
+    formatted_days = days
+    
+
+print(f"The reformatted date: {year}/{formatted_month}/{formatted_days}")
+

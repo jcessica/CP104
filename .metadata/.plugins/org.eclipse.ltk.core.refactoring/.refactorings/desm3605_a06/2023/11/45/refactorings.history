@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;desm3605_a06/functions&apos; to &apos;src&apos;" description="Rename resource &apos;functions&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="functions" name="src" stamp="1699645866398" updateReferences="true"/>
+</session>

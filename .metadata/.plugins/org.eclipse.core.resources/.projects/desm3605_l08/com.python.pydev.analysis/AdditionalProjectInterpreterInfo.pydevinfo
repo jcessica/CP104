@@ -1,0 +1,49 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jessica_folder/Desktop/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/desm3605_l08/com.python.pydev.analysis/v2_indexcache
+functions|1699628019923076170|/Users/jessica_folder/Desktop/CP104/desm3605_l08/src/functions.py
+t01|1699583982749625734|/Users/jessica_folder/Desktop/CP104/desm3605_l08/src/t01.py
+t11|1699629296130245831|/Users/jessica_folder/Desktop/CP104/desm3605_l08/src/t11.py
+t04|1699629955963907492|/Users/jessica_folder/Desktop/CP104/desm3605_l08/src/t04.py
+t15|1699629690985488283|/Users/jessica_folder/Desktop/CP104/desm3605_l08/src/t15.py
+t07|1699626158130726528|/Users/jessica_folder/Desktop/CP104/desm3605_l08/src/t07.py
+t06|1699625234138741475|/Users/jessica_folder/Desktop/CP104/desm3605_l08/src/t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+13=/Users/jessica_folder/Desktop/CP104/desm3605_l08/src/t15.py
+6=functions
+5=/Users/jessica_folder/Desktop/CP104/desm3605_l08/src/functions.py
+3=/Users/jessica_folder/Desktop/CP104/desm3605_l08/src/t01.py
+9=/Users/jessica_folder/Desktop/CP104/desm3605_l08/src/t06.py
+1=/Users/jessica_folder/Desktop/CP104/desm3605_l08/src/t07.py
+11=/Users/jessica_folder/Desktop/CP104/desm3605_l08/src/t04.py
+4=t01
+8=t11
+12=t04
+14=t15
+2=t07
+10=t06
+7=/Users/jessica_folder/Desktop/CP104/desm3605_l08/src/t11.py
+-- END DICTIONARY
+-- START TREE 1
+15
+cat|1|category!1^23#1*19@
+day|1|day!3^17#1*35@
+dot|2|dot_product!5^143#5*50@dotted!7^26#1*67@
+gen|1|generate_integer_list!5^36#5*50@
+get|1|get_weekday_name!5^20#5*50@
+hig|4|high!7^20#1*67@high!1^19#1*19@high!9^20#1*83@high!11^20#1*99@
+lis|2|list_categorize!5^103#5*50@list_stats!5^65#5*50@
+low|4|low!11^18#1*99@low!7^18#1*67@low!9^18#1*83@low!1^17#1*19@
+nam|1|name!3^19#1*35@
+num|4|num!11^16#1*99@num!7^16#1*67@num!9^16#1*83@num!1^15#1*19@
+sou|4|source2!7^24#1*67@source2!13^18#1*115@source1!7^22#1*67@source1!13^16#1*115@
+sta|1|statistics!9^24#1*83@
+sym|2|sym!13^20#1*115@symmetric_difference!5^168#5*50@
+val|3|values!9^22#1*83@values!1^21#1*19@values!11^22#1*99@
+wee|1|WEEK!5^16#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

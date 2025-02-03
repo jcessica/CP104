@@ -1,0 +1,71 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jessica_folder/Desktop/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/desm3605_e/com.python.pydev.analysis/v2_indexcache
+t01_functions|1702578335140931808|/Users/jessica_folder/Downloads/desm3605_badexamzip/src/t01_functions.py
+t07_functions|1702580369169380065|/Users/jessica_folder/Downloads/desm3605_badexamzip/src/t07_functions.py
+t02_functions|1702579286481379155|/Users/jessica_folder/Downloads/desm3605_badexamzip/src/t02_functions.py
+t03_functions|1702574888662933592|/Users/jessica_folder/Downloads/desm3605_badexamzip/src/t03_functions.py
+t05_functions|1702582031573529121|/Users/jessica_folder/Downloads/desm3605_badexamzip/src/t05_functions.py
+t01|1702573621612278828|/Users/jessica_folder/Downloads/desm3605_badexamzip/src/t01.py
+t03|1701368508000000000|/Users/jessica_folder/Downloads/desm3605_badexamzip/src/t03.py
+t04_functions|1702580369191825942|/Users/jessica_folder/Downloads/desm3605_badexamzip/src/t04_functions.py
+t02|1701368508000000000|/Users/jessica_folder/Downloads/desm3605_badexamzip/src/t02.py
+t05|1701368508000000000|/Users/jessica_folder/Downloads/desm3605_badexamzip/src/t05.py
+t04|1702499724000000000|/Users/jessica_folder/Downloads/desm3605_badexamzip/src/t04.py
+t07|1702581245410136023|/Users/jessica_folder/Downloads/desm3605_badexamzip/src/t07.py
+t06|1702504084000000000|/Users/jessica_folder/Downloads/desm3605_badexamzip/src/t06.py
+t06_functions|1702577047012432544|/Users/jessica_folder/Downloads/desm3605_badexamzip/src/t06_functions.py
+-- END DISKCACHE
+-- START DICTIONARY
+26
+23=/Users/jessica_folder/Downloads/desm3605_badexamzip/src/t02_functions.py
+25=/Users/jessica_folder/Downloads/desm3605_badexamzip/src/t03_functions.py
+17=/Users/jessica_folder/Downloads/desm3605_badexamzip/src/t05_functions.py
+14=t01_functions
+13=/Users/jessica_folder/Downloads/desm3605_badexamzip/src/t01_functions.py
+21=/Users/jessica_folder/Downloads/desm3605_badexamzip/src/t06_functions.py
+19=/Users/jessica_folder/Downloads/desm3605_badexamzip/src/t07_functions.py
+26=t03_functions
+9=/Users/jessica_folder/Downloads/desm3605_badexamzip/src/t06.py
+3=/Users/jessica_folder/Downloads/desm3605_badexamzip/src/t04.py
+12=t04_functions
+22=t06_functions
+20=t07_functions
+24=t02_functions
+7=/Users/jessica_folder/Downloads/desm3605_badexamzip/src/t05.py
+15=/Users/jessica_folder/Downloads/desm3605_badexamzip/src/t07.py
+18=t05_functions
+6=t01
+1=/Users/jessica_folder/Downloads/desm3605_badexamzip/src/t03.py
+2=t03
+5=/Users/jessica_folder/Downloads/desm3605_badexamzip/src/t01.py
+8=t05
+4=t04
+16=t07
+10=t06
+11=/Users/jessica_folder/Downloads/desm3605_badexamzip/src/t04_functions.py
+-- END DICTIONARY
+-- START TREE 1
+18
+alt|1|altered!1^17#5*19@
+cas|5|CASES!3^14#1*35@CASES!1^14#1*19@CASES!5^19#1*51@CASES!7^18#1*67@CASES!9^20#1*83@
+dra|1|draw_x!11^13#5*98@
+eve|1|even_avg!13^13#5*114@
+f_i|2|f_in!15^14#1*131@f_in!7^21#5*67@
+f_l|1|f_long!15^16#1*131@
+f_s|1|f_short!15^15#1*131@
+fil|1|fill_matrix!17^12#5*146@
+i|1|i!15^25#5*131@
+lin|1|line_lengths!19^13#5*162@
+mat|1|matrix!7^22#5*67@
+mul|1|multiply_list!21^12#5*178@
+rai|1|rainfall!23^16#5*194@
+sen|1|SENTINEL!23^12#1*195@
+sto|1|stop!15^21#1*131@
+tot|1|total!15^20#1*131@
+upp|1|upper_vowels!25^14#5*210@
+val|1|values!9^24#5*83@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

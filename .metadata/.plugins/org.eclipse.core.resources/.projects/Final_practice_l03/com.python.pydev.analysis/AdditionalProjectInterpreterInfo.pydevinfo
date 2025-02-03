@@ -1,0 +1,22 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jessica_folder/Desktop/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/Final_practice_l03/com.python.pydev.analysis/v2_indexcache
+t01|1702404914702505313|/Users/jessica_folder/Desktop/CP104/Final_practice_l03/src/t01.py
+t07|1702405957121903455|/Users/jessica_folder/Desktop/CP104/Final_practice_l03/src/t07.py
+t08|1702406978192138725|/Users/jessica_folder/Desktop/CP104/Final_practice_l03/src/t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=/Users/jessica_folder/Desktop/CP104/Final_practice_l03/src/t07.py
+2=t07
+-- END DICTIONARY
+-- START TREE 1
+4
+bre|1|breakfast!1^16#1*19@
+lun|1|lunch!1^17#1*19@
+sup|1|supper!1^18#1*19@
+tot|1|total!1^20#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

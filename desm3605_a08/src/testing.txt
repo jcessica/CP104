@@ -1,0 +1,81 @@
+"""
+-------------------------------------------------------
+Assignment      Testing
+-------------------------------------------------------
+Author:  Jessica Desmond
+ID:      169033605
+Email:   desm3605@mylaurier.ca
+Version: 2023-12-25
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+StopAndSmellTheRoses.
+
+Stop and smell the roses.
+
+JessicaIsTheBestTbh
+
+Jessica is the best tbh
+
+IfTheLimitNeverApproachesAnythingThenTheLimitDoesNotExist!
+
+If the limit never approaches anything then the limit does not exist!
+
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+String:City
+Cities
+
+String:Flush
+Flushes
+
+String:Dog
+Dogs
+
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+jumping
+cling
+Common end: "ing"
+
+along
+footlong
+Common end: "long"
+
+along
+foot
+Common end: ""
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+isbn: 978-3-16-148410-0
+
+Valid: True
+
+isbn: 978-3-12148410--0
+
+Valid: False
+
+isbn: 978-3-16-14--10-0
+
+Valid: False
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Words: ['camel', 'leopard', 'dog', 'giraffe', 'elephant']
+True
+
+Words: ['camel', 'leopard', 'dog', 'garry', 'hank']
+False
+
+Words: ['camel', 'leopard', 'dog', 'garry', 'yank']
+True
+
+-------------------------------------------------------

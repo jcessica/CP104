@@ -1,0 +1,40 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jessica_folder/Desktop/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/desm3605_a01/com.python.pydev.analysis/v2_indexcache
+t01|1695670910000000000|/Users/jessica_folder/Desktop/CP104/desm3605_a01/src/t01.py
+t03|1695677158000000000|/Users/jessica_folder/Desktop/CP104/desm3605_a01/src/t03.py
+t02|1695670910000000000|/Users/jessica_folder/Desktop/CP104/desm3605_a01/src/t02.py
+t05|1695676654000000000|/Users/jessica_folder/Desktop/CP104/desm3605_a01/src/t05.py
+t04|1695677158000000000|/Users/jessica_folder/Desktop/CP104/desm3605_a01/src/t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+8=t03
+2=t02
+4=t05
+6=t04
+5=/Users/jessica_folder/Desktop/CP104/desm3605_a01/src/t04.py
+3=/Users/jessica_folder/Desktop/CP104/desm3605_a01/src/t05.py
+7=/Users/jessica_folder/Desktop/CP104/desm3605_a01/src/t03.py
+1=/Users/jessica_folder/Desktop/CP104/desm3605_a01/src/t02.py
+-- END DICTIONARY
+-- START TREE 1
+14
+age|1|age!1^12#1*19@
+bal|1|balance!3^30#1*35@
+ban|1|band!1^14#1*19@
+cal|1|calculation!3^28#1*35@
+cos|1|cost_dosa!5^12#1*51@
+int|1|interest!3^15#1*35@
+kil|1|kilometers!7^16#1*67@
+mil|2|MILES_KM!7^12#1*67@miles!7^14#1*67@
+n_c|1|n_compound!3^24#1*35@
+num|1|number_dosa!5^14#1*51@
+p_p|1|p_principal_amt!3^12#1*35@
+r_p|1|r_percent_int!3^18#1*35@
+t_y|1|t_years!3^21#1*35@
+tot|1|total_cost!5^16#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

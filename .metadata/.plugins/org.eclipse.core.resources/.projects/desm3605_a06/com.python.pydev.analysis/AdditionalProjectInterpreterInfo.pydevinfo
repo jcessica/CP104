@@ -1,0 +1,43 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jessica_folder/Desktop/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/desm3605_a06/com.python.pydev.analysis/v2_indexcache
+functions|1699727347335210116|/Users/jessica_folder/Desktop/CP104/desm3605_a06/src/functions.py
+t01|1699671395458130509|/Users/jessica_folder/Desktop/CP104/desm3605_a06/src/t01.py
+t03|1699727598633216219|/Users/jessica_folder/Desktop/CP104/desm3605_a06/src/t03.py
+t02|1699674577348756931|/Users/jessica_folder/Desktop/CP104/desm3605_a06/src/t02.py
+t05|1699721070528219094|/Users/jessica_folder/Desktop/CP104/desm3605_a06/src/t05.py
+t04|1699677821485313950|/Users/jessica_folder/Desktop/CP104/desm3605_a06/src/t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+2=functions
+12=t01
+8=t03
+10=t02
+6=t05
+3=/Users/jessica_folder/Desktop/CP104/desm3605_a06/src/t04.py
+4=t04
+7=/Users/jessica_folder/Desktop/CP104/desm3605_a06/src/t03.py
+9=/Users/jessica_folder/Desktop/CP104/desm3605_a06/src/t02.py
+1=/Users/jessica_folder/Desktop/CP104/desm3605_a06/src/functions.py
+11=/Users/jessica_folder/Desktop/CP104/desm3605_a06/src/t01.py
+5=/Users/jessica_folder/Desktop/CP104/desm3605_a06/src/t05.py
+-- END DICTIONARY
+-- START TREE 1
+12
+cou|1|count_of_digits!1^141#5*18@
+det|1|detect_prime!1^57#5*18@
+dig|1|digits_c!3^18#1*35@
+fac|2|factsum!5^18#1*51@factor_summation!1^165#5*18@
+int|2|interest_rate!7^17#1*67@interest_table!1^87#5*18@
+num|3|number!9^15#1*83@number!3^16#1*35@number!5^16#1*51@
+pay|1|payment!7^18#1*67@
+pri|2|principal_amount!7^16#1*67@prime!9^17#1*83@
+ten|1|TEN!1^15#1*19@
+tot|1|total_wins!1^19#5*18@
+win|1|winners!11^16#1*99@
+yea|1|YEARPERC!1^17#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,40 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jessica_folder/Desktop/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/desm3605_l09/com.python.pydev.analysis/v2_indexcache
+functions|1700190354781816511|/Users/jessica_folder/Desktop/CP104/desm3605_l09/src/functions.py
+t12|1700189805321781593|/Users/jessica_folder/Desktop/CP104/desm3605_l09/src/t12.py
+t13|1700190260979839553|/Users/jessica_folder/Desktop/CP104/desm3605_l09/src/t13.py
+t05|1700185164456891549|/Users/jessica_folder/Desktop/CP104/desm3605_l09/src/t05.py
+t07|1700187709290182069|/Users/jessica_folder/Desktop/CP104/desm3605_l09/src/t07.py
+t09|1700188248172364155|/Users/jessica_folder/Desktop/CP104/desm3605_l09/src/t09.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+2=functions
+4=t12
+1=/Users/jessica_folder/Desktop/CP104/desm3605_l09/src/functions.py
+10=t13
+6=t05
+11=/Users/jessica_folder/Desktop/CP104/desm3605_l09/src/t07.py
+12=t07
+8=t09
+7=/Users/jessica_folder/Desktop/CP104/desm3605_l09/src/t09.py
+3=/Users/jessica_folder/Desktop/CP104/desm3605_l09/src/t12.py
+5=/Users/jessica_folder/Desktop/CP104/desm3605_l09/src/t05.py
+9=/Users/jessica_folder/Desktop/CP104/desm3605_l09/src/t13.py
+-- END DICTIONARY
+-- START TREE 1
+9
+com|1|comma_period_replace!1^113#5*18@
+cou|1|count_special_chars!1^88#5*18@
+out|1|out!3^18#1*35@
+pas|2|password!5^16#1*51@password_strength!1^18#5*18@
+spe|1|special_!7^18#1*67@
+str|4|string!9^16#1*83@string!7^16#1*67@STRONG!1^15#1*19@string!3^16#1*35@
+tot|2|total_digits!1^134#5*18@total!9^18#1*83@
+vow|2|vowel_count!1^63#5*18@vowels_!11^18#1*99@
+wor|1|word!11^16#1*99@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

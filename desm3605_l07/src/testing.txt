@@ -1,0 +1,98 @@
+"""
+-------------------------------------------------------
+Lab      Testing
+-------------------------------------------------------
+Author:  Jessica Desmond
+ID:      169033605
+Email:   desm3605@mylaurier.ca
+Version: 2023-11-01
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter a number: 5
+Guess: 3
+Too low, try again.
+Guess: 4
+Congratulations - good guess!
+You made 2 guesses.
+
+Enter a number: 5
+Guess: 3
+Too low, try again.
+Guess: 1
+Too low, try again.
+Guess: 2
+Too low, try again.
+Guess: 4
+Congratulations - good guess!
+You made 4 guesses.
+
+Enter a number: 4
+Guess: 1
+Congratulations - good guess!
+You made 1 guesses.
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter target: 26
+30
+
+Enter target: 14
+14
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+First value: 3.2
+Next value: -6.8
+Next value: 23
+Next value: -5.4
+Next value: 0
+Next value: -999
+(2, 1, 2)
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+For Day 1
+
+How much was breakfast? $7.95
+How much was lunch? $15.32
+How much was supper? $42.56
+Your total for the day was $65.83
+
+
+Were you away another day (Y/N)? Y
+
+For Day 2
+
+How much was breakfast? $5.55
+How much was lunch? $12.39
+How much was supper? $36.23
+Your total for the day was $54.17
+
+
+Were you away another day (Y/N)? N
+
+(13.5, 27.71, 78.78999999999999, 120.0)
+-------------------------------------------------------
+t09
+-------------------------------------------------------
+Enter low number: 0
+Enter high number: 100
+Enter a value between 0 and 100: 75
+75
+
+Enter low number: 1
+Enter high number: 10
+Enter a value between 1 and 10: 0
+Value entered is too low
+Enter a value between 1 and 10: 11
+Value entered is too high
+Enter a value between 1 and 10: 5
+5
+
+
+-------------------------------------------------------

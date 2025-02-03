@@ -1,0 +1,33 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jessica_folder/Desktop/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/Midterm_practice_l03/com.python.pydev.analysis/v2_indexcache
+t10|1698805312252339367|/Users/jessica_folder/Desktop/CP104/Midterm_practice_l03/src/t10.py
+t09|1698805346935542332|/Users/jessica_folder/Desktop/CP104/Midterm_practice_l03/src/t09.py
+t08|1698794271587493250|/Users/jessica_folder/Desktop/CP104/Midterm_practice_l03/src/t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+4=t10
+3=/Users/jessica_folder/Desktop/CP104/Midterm_practice_l03/src/t10.py
+2=t09
+5=/Users/jessica_folder/Desktop/CP104/Midterm_practice_l03/src/t08.py
+6=t08
+1=/Users/jessica_folder/Desktop/CP104/Midterm_practice_l03/src/t09.py
+-- END DICTIONARY
+-- START TREE 1
+11
+ban|1|band!1^15#1*19@
+day|1|day!3^20#1*35@
+dir|1|dirt!5^16#1*51@
+fun|0|
+gra|1|gravel!5^17#1*51@
+jac|1|jacket!1^17#1*19@
+mon|1|month!3^18#1*35@
+pan|1|pants!1^16#1*19@
+san|1|sand!5^18#1*51@
+tot|2|total!5^20#1*51@total!1^19#1*19@
+yea|1|year!3^16#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

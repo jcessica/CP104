@@ -1,0 +1,46 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jessica_folder/Desktop/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/Final_practice_l10/com.python.pydev.analysis/v2_indexcache
+functions|1702573063392472690|/Users/jessica_folder/Desktop/CP104/Final_practice_l10/src/functions.py
+t01|1702486699878770698|/Users/jessica_folder/Desktop/CP104/Final_practice_l10/src/t01.py
+t03|1702513734478977971|/Users/jessica_folder/Desktop/CP104/Final_practice_l10/src/t03.py
+t02|1702513734487331619|/Users/jessica_folder/Desktop/CP104/Final_practice_l10/src/t02.py
+t05|1702513734468196097|/Users/jessica_folder/Desktop/CP104/Final_practice_l10/src/t05.py
+t04|1702513734464588403|/Users/jessica_folder/Desktop/CP104/Final_practice_l10/src/t04.py
+t07|1702570600091905454|/Users/jessica_folder/Desktop/CP104/Final_practice_l10/src/t07.py
+t06|1702516102473386583|/Users/jessica_folder/Desktop/CP104/Final_practice_l10/src/t06.py
+t08|1702570979270548568|/Users/jessica_folder/Desktop/CP104/Final_practice_l10/src/t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+18
+2=functions
+17=/Users/jessica_folder/Desktop/CP104/Final_practice_l10/src/t05.py
+1=/Users/jessica_folder/Desktop/CP104/Final_practice_l10/src/functions.py
+3=/Users/jessica_folder/Desktop/CP104/Final_practice_l10/src/t04.py
+13=/Users/jessica_folder/Desktop/CP104/Final_practice_l10/src/t06.py
+15=/Users/jessica_folder/Desktop/CP104/Final_practice_l10/src/t07.py
+9=/Users/jessica_folder/Desktop/CP104/Final_practice_l10/src/t08.py
+12=t01
+8=t03
+6=t02
+18=t05
+4=t04
+16=t07
+14=t06
+5=/Users/jessica_folder/Desktop/CP104/Final_practice_l10/src/t02.py
+7=/Users/jessica_folder/Desktop/CP104/Final_practice_l10/src/t03.py
+10=t08
+11=/Users/jessica_folder/Desktop/CP104/Final_practice_l10/src/t01.py
+-- END DICTIONARY
+-- START TREE 1
+6
+app|2|append_increment!1^235#5*18@append_max_num!1^203#5*18@
+cus|5|customer_first!1^110#5*18@customer_by_id!1^43#5*18@customer_best!1^73#5*18@customer_record!1^16#5*18@customer_append!1^154#5*18@
+fh|8|fh!3^15#1*35@fh!5^15#1*51@fh!7^16#1*67@fh!9^15#1*83@fh!11^16#1*99@fh!13^16#1*115@fh!15^15#1*131@fh!17^15#1*147@
+id_|1|id_number!5^19#1*51@
+num|1|number_stats!1^171#5*18@
+rec|1|record!11^18#1*99@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

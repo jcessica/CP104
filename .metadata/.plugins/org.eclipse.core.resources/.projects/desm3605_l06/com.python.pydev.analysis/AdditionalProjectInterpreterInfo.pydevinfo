@@ -1,0 +1,40 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jessica_folder/Desktop/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/desm3605_l06/com.python.pydev.analysis/v2_indexcache
+t10|1698104830592140512|/Users/jessica_folder/Desktop/CP104/desm3605_l06/src/t10.py
+functions|1698359001400921497|/Users/jessica_folder/Desktop/CP104/desm3605_l06/src/functions.py
+t11|1698283505611351939|/Users/jessica_folder/Desktop/CP104/desm3605_l06/src/t11.py
+t05|1698277318778751983|/Users/jessica_folder/Desktop/CP104/desm3605_l06/src/t05.py
+t15|1698352736642556412|/Users/jessica_folder/Desktop/CP104/desm3605_l06/src/t15.py
+t08|1698357810553854751|/Users/jessica_folder/Desktop/CP104/desm3605_l06/src/t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+10=t10
+3=/Users/jessica_folder/Desktop/CP104/desm3605_l06/src/t08.py
+8=functions
+2=t11
+6=t05
+7=/Users/jessica_folder/Desktop/CP104/desm3605_l06/src/functions.py
+1=/Users/jessica_folder/Desktop/CP104/desm3605_l06/src/t11.py
+4=t08
+5=/Users/jessica_folder/Desktop/CP104/desm3605_l06/src/t05.py
+9=/Users/jessica_folder/Desktop/CP104/desm3605_l06/src/t10.py
+-- END DICTIONARY
+-- START TREE 1
+11
+age|1|age!1^16#1*19@
+cha|2|char!3^18#1*35@char!5^22#1*51@
+dra|2|draw_rectangle!7^16#5*66@draw_hollow_triangle!7^37#5*66@
+fun|1|func!9^16#5*82@
+hei|1|height!5^18#1*51@
+inc|1|increase!1^20#1*19@
+ret|1|retirement!7^106#5*66@
+sal|1|salary!1^18#1*19@
+sta|1|statistics!7^135#5*66@
+tre|1|treadmill!7^74#5*66@
+wid|2|width!3^16#1*35@width!5^20#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

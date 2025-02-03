@@ -1,0 +1,47 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jessica_folder/Desktop/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/desm3605_a02/com.python.pydev.analysis/v2_indexcache
+t01|1696547886419935796|/Users/jessica_folder/Desktop/CP104/desm3605_a02/src/t01.py
+t03|1696605374521866925|/Users/jessica_folder/Desktop/CP104/desm3605_a02/src/t03.py
+t02|1696547886415803586|/Users/jessica_folder/Desktop/CP104/desm3605_a02/src/t02.py
+t05|1696560964285750994|/Users/jessica_folder/Desktop/CP104/desm3605_a02/src/t05.py
+t04|1696558617655029449|/Users/jessica_folder/Desktop/CP104/desm3605_a02/src/t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+3=/Users/jessica_folder/Desktop/CP104/desm3605_a02/src/t05.py
+2=t01
+6=t03
+10=t02
+4=t05
+8=t04
+1=/Users/jessica_folder/Desktop/CP104/desm3605_a02/src/t01.py
+7=/Users/jessica_folder/Desktop/CP104/desm3605_a02/src/t04.py
+5=/Users/jessica_folder/Desktop/CP104/desm3605_a02/src/t03.py
+9=/Users/jessica_folder/Desktop/CP104/desm3605_a02/src/t02.py
+-- END DICTIONARY
+-- START TREE 1
+19
+ann|1|ANNUAL_TAX!1^14#1*19@
+bri|2|brick_cost!3^32#1*35@brick_count!3^30#1*35@
+cos|2|cost_conc!3^20#1*35@cost_brick!3^22#1*35@
+dat|1|date!5^12#1*51@
+day|1|days!5^14#1*51@
+del|1|delivery_p!7^14#1*67@
+dif|1|difference!9^18#1*83@
+fir|1|first_dig!9^16#1*83@
+fly|3|flyers_pers!7^18#1*67@flyers_left!7^16#1*67@flyers!7^12#1*67@
+fou|2|found_vol!3^26#1*35@found_conc!3^28#1*35@
+mon|1|month!5^16#1*51@
+pos|1|positive_dig!9^12#1*83@
+pro|1|proj_sales!1^12#1*19@
+sec|1|second_dig!9^14#1*83@
+she|3|shed_width!3^14#1*35@shed_length!3^12#1*35@shed_height!3^16#1*35@
+tax|1|tax!1^16#1*19@
+tot|1|total_cost!3^34#1*35@
+wal|1|wall_height!3^18#1*35@
+yea|1|year!5^18#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

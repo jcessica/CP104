@@ -1,0 +1,43 @@
+"""
+------------------------------------------------------------------------
+Functions module
+------------------------------------------------------------------------
+Author: Jessica Desmond
+ID:     169033605
+Email:  desm3605@mylaurier.ca
+__updated__ = "2023-11-29"
+------------------------------------------------------------------------
+"""
+
+# Imports
+
+import random
+
+# Constants
+
+def generate_matrix_char(rows, cols):
+    """
+    -------------------------------------------------------
+    Generates a 2D list of random lower case letter ('a' - 'z') values
+    Use: matrix = generate_matrix_char(rows, cols)
+    -------------------------------------------------------
+    Parameters:
+        rows - number of rows in the generated matrix (int > 0)
+        cols - number of columns in the generated matrix (int > 0)
+    Returns:
+        matrix - a 2D list of random characters (2D list of str)
+    -------------------------------------------------------
+    """
+    elem = []
+    matrix = []
+    
+    for _ in range(0,rows):
+        for _ in range(0,cols):
+            alpha = random.choice(['a','b','c','d','e','f','g','h','i','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'])
+            elem.appen(alpha)
+        matrix.append(elem)
+        
+    return matrix
+    
+    
+    
